@@ -1,6 +1,6 @@
 # jin_2020_plosgen
 
-Raw data and scripts used for the manuscript Jin *et al.*, 2020 PLOS Genetics "Genetic and metabolomic architecture of variation in diet restriction-mediated lifespan extension in *Drosophila*"
+Data and scripts used for the manuscript Jin *et al.*, 2020 PLOS Genetics "Genetic and metabolomic architecture of variation in diet restriction-mediated lifespan extension in *Drosophila*"
 
 This study was the result of close collaboration between Daniel Promislow's lab (metabolomics; UW Pathology) and Pankaj Kapahi's lab (lifespan experiments; Buck Institute).
 
